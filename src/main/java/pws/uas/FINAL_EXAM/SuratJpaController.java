@@ -18,7 +18,7 @@ import pws.uas.FINAL_EXAM.exceptions.PreexistingEntityException;
 
 /**
  *
- * @author ABID
+ * @author Akhmad Muzaffar Abid Akbar (20200140018)
  */
 public class SuratJpaController implements Serializable {
 

@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author ABID
+ * @author Akhmad Muzaffar Abid Akbar (20200140018)
  */
 
 @RestController
